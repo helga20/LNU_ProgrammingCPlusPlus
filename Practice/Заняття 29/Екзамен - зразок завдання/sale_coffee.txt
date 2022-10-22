@@ -1,0 +1,5 @@
+4
+Dallmayr 450 15
+Jacobs 550 10
+Jacobs 470 5
+Tchibo 470 15

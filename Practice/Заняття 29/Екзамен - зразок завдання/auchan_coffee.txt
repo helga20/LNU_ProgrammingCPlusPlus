@@ -1,0 +1,9 @@
+Tchibo 940 15
+Dallmayr 900 15
+Jacobs 940 5
+Lavazza 640
+Jacobs 940
+Nescafe 640
+Jacobs 1100 10
+Lavazza 1100
+Jacobs 1880

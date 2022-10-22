@@ -1,0 +1,4 @@
+3
+S Andriy Paliy 19 PMI-31
+A Sviatoslav Tarasiuk 50 MatAn
+P Serhii Yaroshko 50 C++

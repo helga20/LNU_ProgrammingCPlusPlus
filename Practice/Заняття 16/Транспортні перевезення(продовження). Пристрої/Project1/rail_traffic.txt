@@ -1,0 +1,5 @@
+4
+Lviv Chervonograd 15 150 5
+Lviv Ternopil 7 200 13
+Lviv Chernivtsi 5 400 16
+Lviv Kherson 12 180 1

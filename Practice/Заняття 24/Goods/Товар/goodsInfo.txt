@@ -1,0 +1,11 @@
+Vegetables carrots 9.50
+Drinks peach_juice 23.00
+Cheeses feta 36.00
+Vegetables potatoes 7.00
+Fruits apples 18.00
+Vegetables tomatoes 35.00
+Drinks orange_juice 20.00
+Sweets chocolate 22.30
+Cheeses mozzarella 40.00
+Sweets cookies 18.00
+Fruits bananas 22.10

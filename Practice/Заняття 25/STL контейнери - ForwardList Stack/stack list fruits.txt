@@ -1,0 +1,30 @@
+Fruit {variety, country}
++type
++print, readFrom, (writeTo)
++(clone)
++operator<
++operator>>, (<<)
+
+Apple {season}
+Peach {weight}
+
+Store (stack): apples & peaches
+TODO: split separately apples / peaches, sort apples by season, sort peaches by weight
+TODO: place in a row: apple/peach/apple/peach/etc, print
+
+-------------
+
+Gala Ukraine Summer
+Aidared Ukraine Autumn
+Fuji France Winter
+GrannySmith USA Summer
+GoldenDelicious France Autumn
+PinkLady Poland Summer
+RedDelicious Ukraine Winter
+
+Nectarine Turkey 220
+Peento Spain 170
+WhiteFlesh Turkey 160
+YellowFlesh Egipt 200
+TropicSnow Spain 170
+Ventura Italy 200

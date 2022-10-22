@@ -1,0 +1,9 @@
+﻿  goods.cpp
+  main.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Товар\main.cpp(26,10): warning C4129: 'S': unrecognized character escape sequence
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Товар\main.cpp(41,10): warning C4129: 'S': unrecognized character escape sequence
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Товар\main.cpp(56,10): warning C4129: 'S': unrecognized character escape sequence
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Товар\main.cpp(71,10): warning C4129: 'S': unrecognized character escape sequence
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Товар\main.cpp(86,10): warning C4129: 'S': unrecognized character escape sequence
+  Generating Code...
+  Товар.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Заняття 24\Goods\Debug\Товар.exe

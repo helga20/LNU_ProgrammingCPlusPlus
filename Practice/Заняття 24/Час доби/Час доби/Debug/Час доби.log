@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(308,1): error C2664: 'void TimePrinterClass::operator ()(const ExactTimeOfDay &)': cannot convert argument 1 from 'const TimeOfDay' to 'const ExactTimeOfDay &'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(308,1): message : Reason: cannot convert from 'const TimeOfDay' to 'const ExactTimeOfDay'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(308,15): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+D:\STOP! Небезпечно для життя\А я попереджала\Час доби\Час доби\functions.h(15,7): message : see declaration of 'TimePrinterClass::operator ()'
+D:\STOP! Небезпечно для життя\А я попереджала\Час доби\Час доби\main.cpp(33): message : see reference to function template instantiation '_Fn std::for_each<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,TimePrinterClass>(_InIt,_InIt,_Fn)' being compiled
+          with
+          [
+              _Fn=TimePrinterClass,
+              _Ty=TimeOfDay,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<TimeOfDay>>>
+          ]

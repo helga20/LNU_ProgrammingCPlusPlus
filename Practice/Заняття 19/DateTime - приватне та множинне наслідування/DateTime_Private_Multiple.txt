@@ -1,0 +1,11 @@
+Date {day, month, year}
+
+WeekDay {_dayName, _date}
+1) композиція - has a - WeekDay { Date _date}
+2) приватне наслідування - WeekDay : private Date
+
+-----------
+Time {hour, minute}
+
+DateTime
+1) множинне наслідування DateTime : public Date, public Time

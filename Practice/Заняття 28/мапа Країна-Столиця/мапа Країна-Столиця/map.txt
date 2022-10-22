@@ -1,0 +1,9 @@
+8
+Ukraine Kyiv 2.8
+Poland Warsaw 1.7
+Italy Rome 2.8
+Austria Vienna 1.9
+Spain Madrid 3.2
+Germany Berlin 3.6 
+France Paris 2.1
+England London 9.0 

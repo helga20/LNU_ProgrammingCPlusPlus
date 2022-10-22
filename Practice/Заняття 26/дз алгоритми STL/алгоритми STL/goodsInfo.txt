@@ -1,0 +1,7 @@
+Vegetables potatoes 7.00
+Fruits bananas 22.10
+Vegetables tomatoes 35.00
+Sweets cookies 28.00
+Fruits apples 18.00
+Sweets chocolate 20.30
+Vegetables carrots 9.50

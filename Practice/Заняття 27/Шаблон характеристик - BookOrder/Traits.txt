@@ -1,0 +1,7 @@
+1. Характеристики
+BookChoice {person, book, device}
+
+Kid {age} - Fantasy (e.g. Harry Potter) - PaperBook (e.g. "Staryy Lev")
+Developer {seniority} - Programming (e.g. C++ handbook) - PdfBook (e.g. "Amazon")
+Tourist {country} - Guide (e.g. Lviv guide) - EBook (e.g. "Kindle")
+Student {year} - Programming - PaperBook

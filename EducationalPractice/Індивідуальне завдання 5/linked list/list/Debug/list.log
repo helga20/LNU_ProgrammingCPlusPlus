@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Індивідуальні завдання\Індивідуальне завдання 5\list – копія\list\list.h(102): warning C4715: 'List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Front': not all control paths return a value
+  list.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Програмування (практичні)\Індивідуальні завдання\Індивідуальне завдання 5\list – копія\Debug\list.exe

@@ -1,0 +1,2 @@
+Steven Prata UK C++ 557
+Scott Meyers UK C++11 678

@@ -1,0 +1,6 @@
+5
+Steven Prata UK C++ 557
+Brius Ekkel USA Patterns 1050
+Scott Meyers UK C++11 678
+Biarny Straustrup USA C++Base 1000
+Serhii Yaroshko Ukraine Programming 250

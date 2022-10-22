@@ -1,0 +1,4 @@
+D:\Навчання\Програмування (практичні)\functions\Debug\functions.exe
+D:\Навчання\Програмування (практичні)\functions\Debug\functions.pdb
+D:\Навчання\Програмування (практичні)\Навчальна практика\Індивідуальне 3\functions\Debug\functions.exe
+D:\Навчання\Програмування (практичні)\Навчальна практика\Індивідуальне 3\functions\Debug\functions.pdb

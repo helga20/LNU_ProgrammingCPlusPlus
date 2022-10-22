@@ -1,0 +1,5 @@
+﻿  FlatShapes.cpp
+  VolumeShapes.cpp
+  Generating Code...
+D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\Shapes\VolumeShapes.cpp(11): warning C4715: 'VolShape::CopyInstance': not all control paths return a value
+  Shapes.vcxproj -> D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\Debug\Shapes.lib

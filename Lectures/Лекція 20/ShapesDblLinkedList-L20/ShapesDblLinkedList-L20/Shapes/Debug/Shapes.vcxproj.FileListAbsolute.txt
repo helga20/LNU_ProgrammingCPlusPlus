@@ -1,0 +1,2 @@
+D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\Debug\Shapes.pdb
+D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\Shapes\Debug\Shapes.pdb

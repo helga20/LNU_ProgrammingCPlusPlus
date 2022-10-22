@@ -1,0 +1,8 @@
+7
+Cylinder 3.5 C 1.5
+Paralelepiped 3 R 3 3
+TriPrizm 4.1 T 2 2 60
+Conus 4.2 C 1.5
+RectPiramid 4.5 R 5.5 6
+TriPiramid 9.3 T 2 2 90
+Paralelepiped 5 R 6 4

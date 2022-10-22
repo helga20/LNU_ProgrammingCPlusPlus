@@ -1,0 +1,5 @@
+﻿  proga.cpp
+  ShapesList.cpp
+  Generating Code...
+D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\ShapesDblLinkedList\ShapesList.h(52): warning C4715: 'ShDblList::chekIndex': not all control paths return a value
+  ShapesDblLinkedList.vcxproj -> D:\Навчання\1 курс 2 семестр\Програмування (лекції)\Лекція 20\ShapesDblLinkedList-L20\ShapesDblLinkedList-L20\Debug\ShapesDblLinkedList.exe

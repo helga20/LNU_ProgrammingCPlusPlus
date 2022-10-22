@@ -1,0 +1,7 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  vector.cpp
+  main.cpp
+D:\Навчання\Програмування (лекції)\Лекція 14\VectorPrj\VectorPrj\main.cpp(23,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/SAFESEH"
+  VectorPrj.vcxproj -> D:\Навчання\Програмування (лекції)\Лекція 14\VectorPrj\Debug\VectorPrj.exe

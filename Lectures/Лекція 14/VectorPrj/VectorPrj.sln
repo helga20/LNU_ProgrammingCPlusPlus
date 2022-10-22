@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorPrj", "VectorPrj\VectorPrj.vcxproj", "{E41238E8-1780-4E3C-955C-FEF03BC4563D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringPrj", "StringPrj\StringPrj.vcxproj", "{F5CC2DF2-ED9B-4E17-98A0-F94F1896C323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E41238E8-1780-4E3C-955C-FEF03BC4563D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E41238E8-1780-4E3C-955C-FEF03BC4563D}.Debug|Win32.Build.0 = Debug|Win32
+		{E41238E8-1780-4E3C-955C-FEF03BC4563D}.Release|Win32.ActiveCfg = Release|Win32
+		{E41238E8-1780-4E3C-955C-FEF03BC4563D}.Release|Win32.Build.0 = Release|Win32
+		{F5CC2DF2-ED9B-4E17-98A0-F94F1896C323}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F5CC2DF2-ED9B-4E17-98A0-F94F1896C323}.Debug|Win32.Build.0 = Debug|Win32
+		{F5CC2DF2-ED9B-4E17-98A0-F94F1896C323}.Release|Win32.ActiveCfg = Release|Win32
+		{F5CC2DF2-ED9B-4E17-98A0-F94F1896C323}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

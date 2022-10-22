@@ -1,0 +1,7 @@
+6
+Red G 50 1
+Black O 1000 0
+Cyan I 1200 0
+Green P 825 0
+Blue P 1200 1
+Brown I 500 1

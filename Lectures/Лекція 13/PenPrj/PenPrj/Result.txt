@@ -1,0 +1,7 @@
+Pen(Red,G,50,1)
+Pen(Black,O,1000,0)
+Pen(Cyan,I,1200,0)
+Pen(Green,P,825,0)
+Pen(Blue,P,1200,1)
+Pen(Brown,I,500,1)
+The minimal pen is Pen(Red,G,37,1)

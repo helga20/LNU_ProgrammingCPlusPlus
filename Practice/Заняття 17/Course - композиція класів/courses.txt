@@ -1,0 +1,9 @@
+4
+MatAn 120
+P Sviatoslav Tarasiuk
+C++ 200
+P Anatoliy Muzychuk
+DyscrMat 160
+S Igor Petrovych 85.5
+Algorithms 110
+S Oksana Yaroshko 76.1

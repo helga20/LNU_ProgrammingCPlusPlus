@@ -1,0 +1,18 @@
+---------------------
+<nr of items>
+<item>
+<item>
+...
+
+<item>
+<course name> <course hours>
+<teacher>
+
+<teacher>
+<code> <data>
+
+<code> == P
+<data> == <name> <surname>
+
+<code> == S
+<data> == <name> <surname> <note>

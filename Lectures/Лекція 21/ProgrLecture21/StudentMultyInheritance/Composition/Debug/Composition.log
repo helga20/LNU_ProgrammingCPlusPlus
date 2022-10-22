@@ -1,0 +1,14 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  use_stIncl.cpp
+  studIncl.cpp
+  str.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\str.cpp(12,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\str.cpp(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\str.cpp(36,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\str.cpp(44,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  arraydb.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\arraydb.cpp(39,15): warning C4018: '>=': signed/unsigned mismatch
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\MultyInheritance\arraydb.cpp(49,15): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+arraydb.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Composition.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\StudentMultyInheritance\Debug\Composition.exe

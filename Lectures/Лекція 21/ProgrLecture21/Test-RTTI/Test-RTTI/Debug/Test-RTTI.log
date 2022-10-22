@@ -1,0 +1,3 @@
+﻿  mainRtti.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\Test-RTTI\Test-RTTI\mainRtti.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Test-RTTI.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 21\ProgrLecture21\Test-RTTI\Debug\Test-RTTI.exe

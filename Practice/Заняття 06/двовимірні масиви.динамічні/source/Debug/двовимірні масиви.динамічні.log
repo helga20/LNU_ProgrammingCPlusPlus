@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (двовимірні масиви.динамічні.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+  двовимірні масиви.динамічні.vcxproj -> D:\Навчання\Програмування (практичні)\двовимірні масиви.динамічні\Debug\завдання 5 г.exe

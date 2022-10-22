@@ -1,0 +1,4 @@
+D:\Навчання\Програмування (практичні)\Structure Car Showroom\Debug\Structure Car Showroom.exe
+D:\Навчання\Програмування (практичні)\Structure Car Showroom\Debug\Structure Car Showroom.pdb
+D:\Навчання\Програмування (практичні)\Заняття 09\Structure Car Showroom\Debug\Structure Car Showroom.exe
+D:\Навчання\Програмування (практичні)\Заняття 09\Structure Car Showroom\Debug\Structure Car Showroom.pdb

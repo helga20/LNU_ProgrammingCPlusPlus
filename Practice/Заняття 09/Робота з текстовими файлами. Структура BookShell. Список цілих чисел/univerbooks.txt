@@ -1,0 +1,6 @@
+Pidruchnyky
+4
+Tarasiuk MatAnaliz 65
+Scherbyna DyskretnaMatematyka 76
+Yaroshko Programming 55
+Kholiavka Algebra 45

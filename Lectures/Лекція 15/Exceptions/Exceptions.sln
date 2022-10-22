@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimplExcept", "Exceptions\Exceptions.vcxproj", "{8FB48E30-815F-4A1D-A453-9A79234E9312}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassExcept", "ClassExcept\ClassExcept.vcxproj", "{1444C48E-CEE5-4B3A-8386-86A0F56C6B48}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetResource", "GetResource\GetResource.vcxproj", "{66428CC9-3407-463F-A88C-C944311A859E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FB48E30-815F-4A1D-A453-9A79234E9312}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8FB48E30-815F-4A1D-A453-9A79234E9312}.Debug|Win32.Build.0 = Debug|Win32
+		{8FB48E30-815F-4A1D-A453-9A79234E9312}.Release|Win32.ActiveCfg = Release|Win32
+		{8FB48E30-815F-4A1D-A453-9A79234E9312}.Release|Win32.Build.0 = Release|Win32
+		{1444C48E-CEE5-4B3A-8386-86A0F56C6B48}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1444C48E-CEE5-4B3A-8386-86A0F56C6B48}.Debug|Win32.Build.0 = Debug|Win32
+		{1444C48E-CEE5-4B3A-8386-86A0F56C6B48}.Release|Win32.ActiveCfg = Release|Win32
+		{1444C48E-CEE5-4B3A-8386-86A0F56C6B48}.Release|Win32.Build.0 = Release|Win32
+		{66428CC9-3407-463F-A88C-C944311A859E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66428CC9-3407-463F-A88C-C944311A859E}.Debug|Win32.Build.0 = Debug|Win32
+		{66428CC9-3407-463F-A88C-C944311A859E}.Release|Win32.ActiveCfg = Release|Win32
+		{66428CC9-3407-463F-A88C-C944311A859E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿  Program.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7417,1): error C2678: binary '*': no operator found which takes a left-hand operand of type 'const _BidIt' (or there is no acceptable conversion)
+          with
+          [
+              _BidIt=Array<int>::Iterator
+          ]
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 27\ContainersByself\Containers\Array.h(38,6): message : could be 'T &Array<T>::Iterator::operator *(void)'
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7417,1): message : while trying to match the argument list '(const _BidIt)'
+          with
+          [
+              _BidIt=Array<int>::Iterator
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7541): message : see reference to function template instantiation '_BidIt std::_Insertion_sort_unchecked<_RanIt,_Pr>(const _BidIt,const _BidIt,_Pr)' being compiled
+          with
+          [
+              _BidIt=Array<int>::Iterator,
+              _RanIt=Array<int>::Iterator,
+              _Pr=std::less<void>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7571): message : see reference to function template instantiation 'void std::_Sort_unchecked<_RanIt,_Fn>(_RanIt,_RanIt,int,_Pr)' being compiled
+          with
+          [
+              _RanIt=Array<int>::Iterator,
+              _Fn=std::less<void>,
+              _Pr=std::less<void>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7576): message : see reference to function template instantiation 'void std::sort<_RanIt,std::less<void>>(const _RanIt,const _RanIt,_Pr)' being compiled
+          with
+          [
+              _RanIt=Array<int>::Iterator,
+              _Pr=std::less<void>
+          ]
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 27\ContainersByself\Containers\Program.cpp(170): message : see reference to function template instantiation 'void std::sort<Array<int>::Iterator>(const _RanIt,const _RanIt)' being compiled
+          with
+          [
+              _RanIt=Array<int>::Iterator
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7417,17): error C2100: illegal indirection
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7419,1): error C2678: binary '*': no operator found which takes a left-hand operand of type 'const _BidIt' (or there is no acceptable conversion)
+          with
+          [
+              _BidIt=Array<int>::Iterator
+          ]
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 27\ContainersByself\Containers\Array.h(38,6): message : could be 'T &Array<T>::Iterator::operator *(void)'
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7419,1): message : while trying to match the argument list '(const _BidIt)'
+          with
+          [
+              _BidIt=Array<int>::Iterator
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\algorithm(7419,17): error C2100: illegal indirection

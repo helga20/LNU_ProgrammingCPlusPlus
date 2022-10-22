@@ -1,0 +1,686 @@
+1 Tellers serve the Queue:  size=0  
+     serving(C0[0]) and tail:  size=0  
+
+1 Tellers serve the Queue:  size=2  C1[2] C2[12] 
+     serving(C2[9]) and tail:  size=0  
+
+1 Tellers serve the Queue:  size=1  C3[9] 
+     serving(C2[4]) and tail:  size=1  C3[9] 
+
+1 Tellers serve the Queue:  size=3  C3[9] C4[1] C5[8] 
+     serving(C3[8]) and tail:  size=2  C4[1] C5[8] 
+
+1 Tellers serve the Queue:  size=5  C4[1] C5[8] C6[3] C7[14] C8[9] 
+     serving(C3[3]) and tail:  size=5  C4[1] C5[8] C6[3] C7[14] C8[9] 
+
+2 Tellers serve the Queue:  size=8  C4[1] C5[8] C6[3] C7[14] C8[9] C9[4] C10[15] C11[2] 
+     serving(C5[7]) and tail:  size=6  C6[3] C7[14] C8[9] C9[4] C10[15] C11[2] 
+     serving(C7[12]) and tail:  size=4  C8[9] C9[4] C10[15] C11[2] 
+
+2 Tellers serve the Queue:  size=4  C8[9] C9[4] C10[15] C11[2] 
+     serving(C5[2]) and tail:  size=4  C8[9] C9[4] C10[15] C11[2] 
+     serving(C7[7]) and tail:  size=4  C8[9] C9[4] C10[15] C11[2] 
+
+2 Tellers serve the Queue:  size=4  C8[9] C9[4] C10[15] C11[2] 
+     serving(C8[6]) and tail:  size=3  C9[4] C10[15] C11[2] 
+     serving(C7[2]) and tail:  size=3  C9[4] C10[15] C11[2] 
+
+2 Tellers serve the Queue:  size=5  C9[4] C10[15] C11[2] C12[1] C13[12] 
+     serving(C8[1]) and tail:  size=5  C9[4] C10[15] C11[2] C12[1] C13[12] 
+     serving(C9[1]) and tail:  size=4  C10[15] C11[2] C12[1] C13[12] 
+
+2 Tellers serve the Queue:  size=5  C10[15] C11[2] C12[1] C13[12] C14[15] 
+     serving(C10[11]) and tail:  size=4  C11[2] C12[1] C13[12] C14[15] 
+     serving(C13[11]) and tail:  size=1  C14[15] 
+
+2 Tellers serve the Queue:  size=2  C14[15] C15[7] 
+     serving(C10[6]) and tail:  size=2  C14[15] C15[7] 
+     serving(C13[6]) and tail:  size=2  C14[15] C15[7] 
+
+2 Tellers serve the Queue:  size=3  C14[15] C15[7] C16[8] 
+     serving(C10[1]) and tail:  size=3  C14[15] C15[7] C16[8] 
+     serving(C13[1]) and tail:  size=3  C14[15] C15[7] C16[8] 
+
+2 Tellers serve the Queue:  size=4  C14[15] C15[7] C16[8] C17[5] 
+     serving(C14[11]) and tail:  size=3  C15[7] C16[8] C17[5] 
+     serving(C15[3]) and tail:  size=2  C16[8] C17[5] 
+
+2 Tellers serve the Queue:  size=4  C16[8] C17[5] C18[12] C19[5] 
+     serving(C14[6]) and tail:  size=4  C16[8] C17[5] C18[12] C19[5] 
+     serving(C16[6]) and tail:  size=3  C17[5] C18[12] C19[5] 
+
+2 Tellers serve the Queue:  size=4  C17[5] C18[12] C19[5] C20[9] 
+     serving(C14[1]) and tail:  size=4  C17[5] C18[12] C19[5] C20[9] 
+     serving(C16[1]) and tail:  size=4  C17[5] C18[12] C19[5] C20[9] 
+
+2 Tellers serve the Queue:  size=6  C17[5] C18[12] C19[5] C20[9] C21[3] C22[5] 
+     serving(C17[1]) and tail:  size=5  C18[12] C19[5] C20[9] C21[3] C22[5] 
+     serving(C18[8]) and tail:  size=4  C19[5] C20[9] C21[3] C22[5] 
+
+2 Tellers serve the Queue:  size=6  C19[5] C20[9] C21[3] C22[5] C23[6] C24[12] 
+     serving(C19[1]) and tail:  size=5  C20[9] C21[3] C22[5] C23[6] C24[12] 
+     serving(C18[3]) and tail:  size=5  C20[9] C21[3] C22[5] C23[6] C24[12] 
+
+2 Tellers serve the Queue:  size=6  C20[9] C21[3] C22[5] C23[6] C24[12] C25[2] 
+     serving(C20[5]) and tail:  size=5  C21[3] C22[5] C23[6] C24[12] C25[2] 
+     serving(C21[1]) and tail:  size=4  C22[5] C23[6] C24[12] C25[2] 
+
+2 Tellers serve the Queue:  size=4  C22[5] C23[6] C24[12] C25[2] 
+     serving(C0[0]) and tail:  size=4  C22[5] C23[6] C24[12] C25[2] 
+     serving(C22[1]) and tail:  size=3  C23[6] C24[12] C25[2] 
+
+1 Tellers serve the Queue:  size=5  C23[6] C24[12] C25[2] C26[3] C27[6] 
+     serving(C23[2]) and tail:  size=4  C24[12] C25[2] C26[3] C27[6] 
+
+2 Tellers serve the Queue:  size=7  C24[12] C25[2] C26[3] C27[6] C28[4] C29[13] C30[4] 
+     serving(C24[9]) and tail:  size=6  C25[2] C26[3] C27[6] C28[4] C29[13] C30[4] 
+     serving(C0[0]) and tail:  size=4  C27[6] C28[4] C29[13] C30[4] 
+
+2 Tellers serve the Queue:  size=5  C27[6] C28[4] C29[13] C30[4] C31[4] 
+     serving(C24[4]) and tail:  size=5  C27[6] C28[4] C29[13] C30[4] C31[4] 
+     serving(C27[1]) and tail:  size=4  C28[4] C29[13] C30[4] C31[4] 
+
+2 Tellers serve the Queue:  size=4  C28[4] C29[13] C30[4] C31[4] 
+     serving(C28[3]) and tail:  size=3  C29[13] C30[4] C31[4] 
+     serving(C29[9]) and tail:  size=2  C30[4] C31[4] 
+
+2 Tellers serve the Queue:  size=3  C30[4] C31[4] C32[6] 
+     serving(C30[2]) and tail:  size=2  C31[4] C32[6] 
+     serving(C29[4]) and tail:  size=2  C31[4] C32[6] 
+
+2 Tellers serve the Queue:  size=4  C31[4] C32[6] C33[6] C34[12] 
+     serving(C31[1]) and tail:  size=3  C32[6] C33[6] C34[12] 
+     serving(C32[5]) and tail:  size=2  C33[6] C34[12] 
+
+2 Tellers serve the Queue:  size=5  C33[6] C34[12] C35[7] C36[1] C37[15] 
+     serving(C33[2]) and tail:  size=4  C34[12] C35[7] C36[1] C37[15] 
+     serving(C0[0]) and tail:  size=4  C34[12] C35[7] C36[1] C37[15] 
+
+2 Tellers serve the Queue:  size=6  C34[12] C35[7] C36[1] C37[15] C38[5] C39[5] 
+     serving(C34[9]) and tail:  size=5  C35[7] C36[1] C37[15] C38[5] C39[5] 
+     serving(C35[2]) and tail:  size=4  C36[1] C37[15] C38[5] C39[5] 
+
+2 Tellers serve the Queue:  size=5  C36[1] C37[15] C38[5] C39[5] C40[10] 
+     serving(C34[4]) and tail:  size=5  C36[1] C37[15] C38[5] C39[5] C40[10] 
+     serving(C37[13]) and tail:  size=3  C38[5] C39[5] C40[10] 
+
+2 Tellers serve the Queue:  size=4  C38[5] C39[5] C40[10] C41[12] 
+     serving(C38[4]) and tail:  size=3  C39[5] C40[10] C41[12] 
+     serving(C37[8]) and tail:  size=3  C39[5] C40[10] C41[12] 
+
+2 Tellers serve the Queue:  size=6  C39[5] C40[10] C41[12] C42[10] C43[6] C44[14] 
+     serving(C39[4]) and tail:  size=5  C40[10] C41[12] C42[10] C43[6] C44[14] 
+     serving(C37[3]) and tail:  size=5  C40[10] C41[12] C42[10] C43[6] C44[14] 
+
+2 Tellers serve the Queue:  size=6  C40[10] C41[12] C42[10] C43[6] C44[14] C45[9] 
+     serving(C40[9]) and tail:  size=5  C41[12] C42[10] C43[6] C44[14] C45[9] 
+     serving(C41[10]) and tail:  size=4  C42[10] C43[6] C44[14] C45[9] 
+
+2 Tellers serve the Queue:  size=8  C42[10] C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] 
+     serving(C40[4]) and tail:  size=8  C42[10] C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] 
+     serving(C41[5]) and tail:  size=8  C42[10] C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] 
+
+3 Tellers serve the Queue:  size=9  C42[10] C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] 
+     serving(C42[9]) and tail:  size=8  C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] 
+     serving(C0[0]) and tail:  size=8  C43[6] C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] 
+     serving(C43[1]) and tail:  size=7  C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] 
+
+3 Tellers serve the Queue:  size=8  C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] C51[11] 
+     serving(C42[4]) and tail:  size=8  C44[14] C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] C51[11] 
+     serving(C44[9]) and tail:  size=7  C45[9] C46[13] C47[8] C48[12] C49[10] C50[9] C51[11] 
+     serving(C45[5]) and tail:  size=6  C46[13] C47[8] C48[12] C49[10] C50[9] C51[11] 
+
+3 Tellers serve the Queue:  size=7  C46[13] C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] 
+     serving(C46[12]) and tail:  size=6  C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] 
+     serving(C44[4]) and tail:  size=6  C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] 
+     serving(C0[0]) and tail:  size=6  C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] 
+
+3 Tellers serve the Queue:  size=8  C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] 
+     serving(C46[7]) and tail:  size=8  C47[8] C48[12] C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] 
+     serving(C47[7]) and tail:  size=7  C48[12] C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] 
+     serving(C48[7]) and tail:  size=6  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] 
+
+3 Tellers serve the Queue:  size=9  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] 
+     serving(C46[2]) and tail:  size=9  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] 
+     serving(C47[2]) and tail:  size=9  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] 
+     serving(C48[2]) and tail:  size=9  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] 
+
+4 Tellers serve the Queue:  size=10  C49[10] C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] 
+     serving(C49[7]) and tail:  size=9  C50[9] C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] 
+     serving(C50[6]) and tail:  size=8  C51[11] C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] 
+     serving(C51[8]) and tail:  size=7  C52[14] C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] 
+     serving(C52[9]) and tail:  size=6  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] 
+
+4 Tellers serve the Queue:  size=7  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] 
+     serving(C49[2]) and tail:  size=7  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] 
+     serving(C50[1]) and tail:  size=7  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] 
+     serving(C51[3]) and tail:  size=7  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] 
+     serving(C52[4]) and tail:  size=7  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] 
+
+4 Tellers serve the Queue:  size=10  C53[8] C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] 
+     serving(C53[5]) and tail:  size=9  C54[10] C55[11] C56[12] C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] 
+     serving(C54[6]) and tail:  size=8  C55[11] C56[12] C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] 
+     serving(C55[9]) and tail:  size=7  C56[12] C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] 
+     serving(C56[11]) and tail:  size=6  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] 
+
+4 Tellers serve the Queue:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C0[0]) and tail:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C54[1]) and tail:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C55[4]) and tail:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C56[6]) and tail:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+
+3 Tellers serve the Queue:  size=7  C57[6] C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C57[2]) and tail:  size=6  C58[1] C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C0[0]) and tail:  size=5  C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C56[1]) and tail:  size=5  C59[2] C60[4] C61[1] C62[2] C63[15] 
+
+2 Tellers serve the Queue:  size=5  C59[2] C60[4] C61[1] C62[2] C63[15] 
+     serving(C60[3]) and tail:  size=3  C61[1] C62[2] C63[15] 
+     serving(C63[14]) and tail:  size=0  
+
+2 Tellers serve the Queue:  size=4  C64[6] C65[8] C66[15] C67[14] 
+     serving(C64[4]) and tail:  size=3  C65[8] C66[15] C67[14] 
+     serving(C63[9]) and tail:  size=3  C65[8] C66[15] C67[14] 
+
+2 Tellers serve the Queue:  size=3  C65[8] C66[15] C67[14] 
+     serving(C65[7]) and tail:  size=2  C66[15] C67[14] 
+     serving(C63[4]) and tail:  size=2  C66[15] C67[14] 
+
+2 Tellers serve the Queue:  size=2  C66[15] C67[14] 
+     serving(C65[2]) and tail:  size=2  C66[15] C67[14] 
+     serving(C66[14]) and tail:  size=1  C67[14] 
+
+2 Tellers serve the Queue:  size=2  C67[14] C68[11] 
+     serving(C67[11]) and tail:  size=1  C68[11] 
+     serving(C66[9]) and tail:  size=1  C68[11] 
+
+2 Tellers serve the Queue:  size=1  C68[11] 
+     serving(C67[6]) and tail:  size=1  C68[11] 
+     serving(C66[4]) and tail:  size=1  C68[11] 
+
+2 Tellers serve the Queue:  size=2  C68[11] C69[5] 
+     serving(C67[1]) and tail:  size=2  C68[11] C69[5] 
+     serving(C68[10]) and tail:  size=1  C69[5] 
+
+2 Tellers serve the Queue:  size=2  C69[5] C70[4] 
+     serving(C69[1]) and tail:  size=1  C70[4] 
+     serving(C68[5]) and tail:  size=1  C70[4] 
+
+2 Tellers serve the Queue:  size=3  C70[4] C71[9] C72[3] 
+     serving(C0[0]) and tail:  size=2  C71[9] C72[3] 
+     serving(C0[0]) and tail:  size=2  C71[9] C72[3] 
+
+1 Tellers serve the Queue:  size=3  C71[9] C72[3] C73[1] 
+     serving(C71[4]) and tail:  size=2  C72[3] C73[1] 
+
+1 Tellers serve the Queue:  size=4  C72[3] C73[1] C74[8] C75[10] 
+     serving(C72[2]) and tail:  size=3  C73[1] C74[8] C75[10] 
+
+1 Tellers serve the Queue:  size=4  C73[1] C74[8] C75[10] C76[8] 
+     serving(C74[6]) and tail:  size=2  C75[10] C76[8] 
+
+1 Tellers serve the Queue:  size=3  C75[10] C76[8] C77[9] 
+     serving(C74[1]) and tail:  size=3  C75[10] C76[8] C77[9] 
+
+1 Tellers serve the Queue:  size=4  C75[10] C76[8] C77[9] C78[14] 
+     serving(C75[6]) and tail:  size=3  C76[8] C77[9] C78[14] 
+
+1 Tellers serve the Queue:  size=4  C76[8] C77[9] C78[14] C79[3] 
+     serving(C75[1]) and tail:  size=4  C76[8] C77[9] C78[14] C79[3] 
+
+2 Tellers serve the Queue:  size=6  C76[8] C77[9] C78[14] C79[3] C80[3] C81[9] 
+     serving(C76[4]) and tail:  size=5  C77[9] C78[14] C79[3] C80[3] C81[9] 
+     serving(C77[4]) and tail:  size=4  C78[14] C79[3] C80[3] C81[9] 
+
+2 Tellers serve the Queue:  size=6  C78[14] C79[3] C80[3] C81[9] C82[3] C83[5] 
+     serving(C78[13]) and tail:  size=5  C79[3] C80[3] C81[9] C82[3] C83[5] 
+     serving(C79[2]) and tail:  size=4  C80[3] C81[9] C82[3] C83[5] 
+
+2 Tellers serve the Queue:  size=5  C80[3] C81[9] C82[3] C83[5] C84[13] 
+     serving(C78[8]) and tail:  size=5  C80[3] C81[9] C82[3] C83[5] C84[13] 
+     serving(C0[0]) and tail:  size=4  C81[9] C82[3] C83[5] C84[13] 
+
+2 Tellers serve the Queue:  size=5  C81[9] C82[3] C83[5] C84[13] C85[14] 
+     serving(C78[3]) and tail:  size=5  C81[9] C82[3] C83[5] C84[13] C85[14] 
+     serving(C81[4]) and tail:  size=4  C82[3] C83[5] C84[13] C85[14] 
+
+2 Tellers serve the Queue:  size=7  C82[3] C83[5] C84[13] C85[14] C86[9] C87[2] C88[11] 
+     serving(C82[1]) and tail:  size=6  C83[5] C84[13] C85[14] C86[9] C87[2] C88[11] 
+     serving(C83[4]) and tail:  size=5  C84[13] C85[14] C86[9] C87[2] C88[11] 
+
+2 Tellers serve the Queue:  size=7  C84[13] C85[14] C86[9] C87[2] C88[11] C89[7] C90[8] 
+     serving(C84[9]) and tail:  size=6  C85[14] C86[9] C87[2] C88[11] C89[7] C90[8] 
+     serving(C85[13]) and tail:  size=5  C86[9] C87[2] C88[11] C89[7] C90[8] 
+
+2 Tellers serve the Queue:  size=6  C86[9] C87[2] C88[11] C89[7] C90[8] C91[5] 
+     serving(C84[4]) and tail:  size=6  C86[9] C87[2] C88[11] C89[7] C90[8] C91[5] 
+     serving(C85[8]) and tail:  size=6  C86[9] C87[2] C88[11] C89[7] C90[8] C91[5] 
+
+3 Tellers serve the Queue:  size=8  C86[9] C87[2] C88[11] C89[7] C90[8] C91[5] C92[10] C93[1] 
+     serving(C86[8]) and tail:  size=7  C87[2] C88[11] C89[7] C90[8] C91[5] C92[10] C93[1] 
+     serving(C85[3]) and tail:  size=7  C87[2] C88[11] C89[7] C90[8] C91[5] C92[10] C93[1] 
+     serving(C88[8]) and tail:  size=5  C89[7] C90[8] C91[5] C92[10] C93[1] 
+
+3 Tellers serve the Queue:  size=6  C89[7] C90[8] C91[5] C92[10] C93[1] C94[5] 
+     serving(C86[3]) and tail:  size=6  C89[7] C90[8] C91[5] C92[10] C93[1] C94[5] 
+     serving(C89[5]) and tail:  size=5  C90[8] C91[5] C92[10] C93[1] C94[5] 
+     serving(C88[3]) and tail:  size=5  C90[8] C91[5] C92[10] C93[1] C94[5] 
+
+3 Tellers serve the Queue:  size=7  C90[8] C91[5] C92[10] C93[1] C94[5] C95[10] C96[12] 
+     serving(C90[6]) and tail:  size=6  C91[5] C92[10] C93[1] C94[5] C95[10] C96[12] 
+     serving(C0[0]) and tail:  size=6  C91[5] C92[10] C93[1] C94[5] C95[10] C96[12] 
+     serving(C91[3]) and tail:  size=5  C92[10] C93[1] C94[5] C95[10] C96[12] 
+
+2 Tellers serve the Queue:  size=6  C92[10] C93[1] C94[5] C95[10] C96[12] C97[7] 
+     serving(C90[1]) and tail:  size=6  C92[10] C93[1] C94[5] C95[10] C96[12] C97[7] 
+     serving(C92[8]) and tail:  size=5  C93[1] C94[5] C95[10] C96[12] C97[7] 
+
+2 Tellers serve the Queue:  size=5  C93[1] C94[5] C95[10] C96[12] C97[7] 
+     serving(C94[2]) and tail:  size=3  C95[10] C96[12] C97[7] 
+     serving(C92[3]) and tail:  size=3  C95[10] C96[12] C97[7] 
+
+2 Tellers serve the Queue:  size=3  C95[10] C96[12] C97[7] 
+     serving(C95[7]) and tail:  size=2  C96[12] C97[7] 
+     serving(C96[10]) and tail:  size=1  C97[7] 
+
+2 Tellers serve the Queue:  size=4  C97[7] C98[3] C99[5] C100[6] 
+     serving(C95[2]) and tail:  size=4  C97[7] C98[3] C99[5] C100[6] 
+     serving(C96[5]) and tail:  size=4  C97[7] C98[3] C99[5] C100[6] 
+
+2 Tellers serve the Queue:  size=5  C97[7] C98[3] C99[5] C100[6] C101[10] 
+     serving(C97[4]) and tail:  size=4  C98[3] C99[5] C100[6] C101[10] 
+     serving(C0[0]) and tail:  size=4  C98[3] C99[5] C100[6] C101[10] 
+
+2 Tellers serve the Queue:  size=5  C98[3] C99[5] C100[6] C101[10] C102[10] 
+     serving(C98[2]) and tail:  size=4  C99[5] C100[6] C101[10] C102[10] 
+     serving(C0[0]) and tail:  size=3  C100[6] C101[10] C102[10] 
+
+1 Tellers serve the Queue:  size=3  C100[6] C101[10] C102[10] 
+     serving(C100[3]) and tail:  size=2  C101[10] C102[10] 
+
+1 Tellers serve the Queue:  size=3  C101[10] C102[10] C103[12] 
+     serving(C101[8]) and tail:  size=2  C102[10] C103[12] 
+
+1 Tellers serve the Queue:  size=4  C102[10] C103[12] C104[6] C105[8] 
+     serving(C101[3]) and tail:  size=4  C102[10] C103[12] C104[6] C105[8] 
+
+2 Tellers serve the Queue:  size=6  C102[10] C103[12] C104[6] C105[8] C106[7] C107[14] 
+     serving(C102[8]) and tail:  size=5  C103[12] C104[6] C105[8] C106[7] C107[14] 
+     serving(C103[7]) and tail:  size=4  C104[6] C105[8] C106[7] C107[14] 
+
+2 Tellers serve the Queue:  size=4  C104[6] C105[8] C106[7] C107[14] 
+     serving(C102[3]) and tail:  size=4  C104[6] C105[8] C106[7] C107[14] 
+     serving(C103[2]) and tail:  size=4  C104[6] C105[8] C106[7] C107[14] 
+
+2 Tellers serve the Queue:  size=6  C104[6] C105[8] C106[7] C107[14] C108[15] C109[15] 
+     serving(C104[4]) and tail:  size=5  C105[8] C106[7] C107[14] C108[15] C109[15] 
+     serving(C105[5]) and tail:  size=4  C106[7] C107[14] C108[15] C109[15] 
+
+2 Tellers serve the Queue:  size=4  C106[7] C107[14] C108[15] C109[15] 
+     serving(C106[6]) and tail:  size=3  C107[14] C108[15] C109[15] 
+     serving(C0[0]) and tail:  size=3  C107[14] C108[15] C109[15] 
+
+1 Tellers serve the Queue:  size=5  C107[14] C108[15] C109[15] C110[5] C111[6] 
+     serving(C106[1]) and tail:  size=5  C107[14] C108[15] C109[15] C110[5] C111[6] 
+
+2 Tellers serve the Queue:  size=5  C107[14] C108[15] C109[15] C110[5] C111[6] 
+     serving(C107[10]) and tail:  size=4  C108[15] C109[15] C110[5] C111[6] 
+     serving(C108[10]) and tail:  size=3  C109[15] C110[5] C111[6] 
+
+2 Tellers serve the Queue:  size=4  C109[15] C110[5] C111[6] C112[15] 
+     serving(C107[5]) and tail:  size=4  C109[15] C110[5] C111[6] C112[15] 
+     serving(C108[5]) and tail:  size=4  C109[15] C110[5] C111[6] C112[15] 
+
+2 Tellers serve the Queue:  size=4  C109[15] C110[5] C111[6] C112[15] 
+     serving(C0[0]) and tail:  size=4  C109[15] C110[5] C111[6] C112[15] 
+     serving(C0[0]) and tail:  size=4  C109[15] C110[5] C111[6] C112[15] 
+
+2 Tellers serve the Queue:  size=5  C109[15] C110[5] C111[6] C112[15] C113[9] 
+     serving(C109[10]) and tail:  size=4  C110[5] C111[6] C112[15] C113[9] 
+     serving(C0[0]) and tail:  size=3  C111[6] C112[15] C113[9] 
+
+1 Tellers serve the Queue:  size=5  C111[6] C112[15] C113[9] C114[3] C115[9] 
+     serving(C109[5]) and tail:  size=5  C111[6] C112[15] C113[9] C114[3] C115[9] 
+
+2 Tellers serve the Queue:  size=6  C111[6] C112[15] C113[9] C114[3] C115[9] C116[4] 
+     serving(C0[0]) and tail:  size=6  C111[6] C112[15] C113[9] C114[3] C115[9] C116[4] 
+     serving(C111[1]) and tail:  size=5  C112[15] C113[9] C114[3] C115[9] C116[4] 
+
+2 Tellers serve the Queue:  size=7  C112[15] C113[9] C114[3] C115[9] C116[4] C117[14] C118[9] 
+     serving(C112[10]) and tail:  size=6  C113[9] C114[3] C115[9] C116[4] C117[14] C118[9] 
+     serving(C113[5]) and tail:  size=5  C114[3] C115[9] C116[4] C117[14] C118[9] 
+
+2 Tellers serve the Queue:  size=6  C114[3] C115[9] C116[4] C117[14] C118[9] C119[5] 
+     serving(C112[5]) and tail:  size=6  C114[3] C115[9] C116[4] C117[14] C118[9] C119[5] 
+     serving(C0[0]) and tail:  size=6  C114[3] C115[9] C116[4] C117[14] C118[9] C119[5] 
+
+3 Tellers serve the Queue:  size=7  C114[3] C115[9] C116[4] C117[14] C118[9] C119[5] C120[11] 
+     serving(C0[0]) and tail:  size=7  C114[3] C115[9] C116[4] C117[14] C118[9] C119[5] C120[11] 
+     serving(C115[7]) and tail:  size=5  C116[4] C117[14] C118[9] C119[5] C120[11] 
+     serving(C117[13]) and tail:  size=3  C118[9] C119[5] C120[11] 
+
+2 Tellers serve the Queue:  size=3  C118[9] C119[5] C120[11] 
+     serving(C115[2]) and tail:  size=3  C118[9] C119[5] C120[11] 
+     serving(C117[8]) and tail:  size=3  C118[9] C119[5] C120[11] 
+
+2 Tellers serve the Queue:  size=4  C118[9] C119[5] C120[11] C121[12] 
+     serving(C118[6]) and tail:  size=3  C119[5] C120[11] C121[12] 
+     serving(C117[3]) and tail:  size=3  C119[5] C120[11] C121[12] 
+
+2 Tellers serve the Queue:  size=6  C119[5] C120[11] C121[12] C122[4] C123[12] C124[14] 
+     serving(C118[1]) and tail:  size=6  C119[5] C120[11] C121[12] C122[4] C123[12] C124[14] 
+     serving(C119[3]) and tail:  size=5  C120[11] C121[12] C122[4] C123[12] C124[14] 
+
+2 Tellers serve the Queue:  size=6  C120[11] C121[12] C122[4] C123[12] C124[14] C125[12] 
+     serving(C120[7]) and tail:  size=5  C121[12] C122[4] C123[12] C124[14] C125[12] 
+     serving(C121[10]) and tail:  size=4  C122[4] C123[12] C124[14] C125[12] 
+
+2 Tellers serve the Queue:  size=7  C122[4] C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] 
+     serving(C120[2]) and tail:  size=7  C122[4] C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] 
+     serving(C121[5]) and tail:  size=7  C122[4] C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] 
+
+3 Tellers serve the Queue:  size=8  C122[4] C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] C129[4] 
+     serving(C122[1]) and tail:  size=7  C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] C129[4] 
+     serving(C0[0]) and tail:  size=7  C123[12] C124[14] C125[12] C126[1] C127[15] C128[14] C129[4] 
+     serving(C123[7]) and tail:  size=6  C124[14] C125[12] C126[1] C127[15] C128[14] C129[4] 
+
+3 Tellers serve the Queue:  size=9  C124[14] C125[12] C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] 
+     serving(C124[10]) and tail:  size=8  C125[12] C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] 
+     serving(C125[7]) and tail:  size=7  C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] 
+     serving(C123[2]) and tail:  size=7  C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] 
+
+3 Tellers serve the Queue:  size=8  C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] 
+     serving(C124[5]) and tail:  size=8  C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] 
+     serving(C125[2]) and tail:  size=8  C126[1] C127[15] C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] 
+     serving(C127[13]) and tail:  size=6  C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] 
+
+3 Tellers serve the Queue:  size=7  C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] C134[11] 
+     serving(C0[0]) and tail:  size=7  C128[14] C129[4] C130[12] C131[4] C132[5] C133[7] C134[11] 
+     serving(C128[11]) and tail:  size=6  C129[4] C130[12] C131[4] C132[5] C133[7] C134[11] 
+     serving(C127[8]) and tail:  size=6  C129[4] C130[12] C131[4] C132[5] C133[7] C134[11] 
+
+3 Tellers serve the Queue:  size=7  C129[4] C130[12] C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C130[11]) and tail:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C128[6]) and tail:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C127[3]) and tail:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+
+3 Tellers serve the Queue:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C130[6]) and tail:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C128[1]) and tail:  size=5  C131[4] C132[5] C133[7] C134[11] C135[12] 
+     serving(C131[2]) and tail:  size=4  C132[5] C133[7] C134[11] C135[12] 
+
+3 Tellers serve the Queue:  size=6  C132[5] C133[7] C134[11] C135[12] C136[4] C137[12] 
+     serving(C130[1]) and tail:  size=6  C132[5] C133[7] C134[11] C135[12] C136[4] C137[12] 
+     serving(C132[1]) and tail:  size=5  C133[7] C134[11] C135[12] C136[4] C137[12] 
+     serving(C133[4]) and tail:  size=4  C134[11] C135[12] C136[4] C137[12] 
+
+3 Tellers serve the Queue:  size=6  C134[11] C135[12] C136[4] C137[12] C138[5] C139[11] 
+     serving(C134[7]) and tail:  size=5  C135[12] C136[4] C137[12] C138[5] C139[11] 
+     serving(C135[8]) and tail:  size=4  C136[4] C137[12] C138[5] C139[11] 
+     serving(C136[3]) and tail:  size=3  C137[12] C138[5] C139[11] 
+
+3 Tellers serve the Queue:  size=4  C137[12] C138[5] C139[11] C140[7] 
+     serving(C134[2]) and tail:  size=4  C137[12] C138[5] C139[11] C140[7] 
+     serving(C135[3]) and tail:  size=4  C137[12] C138[5] C139[11] C140[7] 
+     serving(C137[10]) and tail:  size=3  C138[5] C139[11] C140[7] 
+
+3 Tellers serve the Queue:  size=6  C138[5] C139[11] C140[7] C141[2] C142[13] C143[12] 
+     serving(C138[2]) and tail:  size=5  C139[11] C140[7] C141[2] C142[13] C143[12] 
+     serving(C139[9]) and tail:  size=4  C140[7] C141[2] C142[13] C143[12] 
+     serving(C137[5]) and tail:  size=4  C140[7] C141[2] C142[13] C143[12] 
+
+3 Tellers serve the Queue:  size=8  C140[7] C141[2] C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] 
+     serving(C140[4]) and tail:  size=7  C141[2] C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] 
+     serving(C139[4]) and tail:  size=7  C141[2] C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] 
+     serving(C0[0]) and tail:  size=7  C141[2] C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] 
+
+3 Tellers serve the Queue:  size=8  C141[2] C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] C148[13] 
+     serving(C141[1]) and tail:  size=7  C142[13] C143[12] C144[13] C145[10] C146[12] C147[5] C148[13] 
+     serving(C142[12]) and tail:  size=6  C143[12] C144[13] C145[10] C146[12] C147[5] C148[13] 
+     serving(C143[7]) and tail:  size=5  C144[13] C145[10] C146[12] C147[5] C148[13] 
+
+3 Tellers serve the Queue:  size=7  C144[13] C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] 
+     serving(C144[9]) and tail:  size=6  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] 
+     serving(C142[7]) and tail:  size=6  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] 
+     serving(C143[2]) and tail:  size=6  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] 
+
+3 Tellers serve the Queue:  size=7  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] C151[2] 
+     serving(C144[4]) and tail:  size=7  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] C151[2] 
+     serving(C142[2]) and tail:  size=7  C145[10] C146[12] C147[5] C148[13] C149[12] C150[4] C151[2] 
+     serving(C145[7]) and tail:  size=6  C146[12] C147[5] C148[13] C149[12] C150[4] C151[2] 
+
+3 Tellers serve the Queue:  size=7  C146[12] C147[5] C148[13] C149[12] C150[4] C151[2] C152[5] 
+     serving(C146[11]) and tail:  size=6  C147[5] C148[13] C149[12] C150[4] C151[2] C152[5] 
+     serving(C147[2]) and tail:  size=5  C148[13] C149[12] C150[4] C151[2] C152[5] 
+     serving(C145[2]) and tail:  size=5  C148[13] C149[12] C150[4] C151[2] C152[5] 
+
+3 Tellers serve the Queue:  size=5  C148[13] C149[12] C150[4] C151[2] C152[5] 
+     serving(C146[6]) and tail:  size=5  C148[13] C149[12] C150[4] C151[2] C152[5] 
+     serving(C148[10]) and tail:  size=4  C149[12] C150[4] C151[2] C152[5] 
+     serving(C149[9]) and tail:  size=3  C150[4] C151[2] C152[5] 
+
+3 Tellers serve the Queue:  size=4  C150[4] C151[2] C152[5] C153[13] 
+     serving(C146[1]) and tail:  size=4  C150[4] C151[2] C152[5] C153[13] 
+     serving(C148[5]) and tail:  size=4  C150[4] C151[2] C152[5] C153[13] 
+     serving(C149[4]) and tail:  size=4  C150[4] C151[2] C152[5] C153[13] 
+
+3 Tellers serve the Queue:  size=5  C150[4] C151[2] C152[5] C153[13] C154[9] 
+     serving(C0[0]) and tail:  size=4  C151[2] C152[5] C153[13] C154[9] 
+     serving(C0[0]) and tail:  size=4  C151[2] C152[5] C153[13] C154[9] 
+     serving(C151[1]) and tail:  size=3  C152[5] C153[13] C154[9] 
+
+2 Tellers serve the Queue:  size=4  C152[5] C153[13] C154[9] C155[15] 
+     serving(C0[0]) and tail:  size=3  C153[13] C154[9] C155[15] 
+     serving(C153[9]) and tail:  size=2  C154[9] C155[15] 
+
+1 Tellers serve the Queue:  size=5  C154[9] C155[15] C156[15] C157[7] C158[9] 
+     serving(C153[4]) and tail:  size=5  C154[9] C155[15] C156[15] C157[7] C158[9] 
+
+2 Tellers serve the Queue:  size=7  C154[9] C155[15] C156[15] C157[7] C158[9] C159[4] C160[4] 
+     serving(C154[8]) and tail:  size=6  C155[15] C156[15] C157[7] C158[9] C159[4] C160[4] 
+     serving(C155[10]) and tail:  size=5  C156[15] C157[7] C158[9] C159[4] C160[4] 
+
+2 Tellers serve the Queue:  size=7  C156[15] C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] 
+     serving(C154[3]) and tail:  size=7  C156[15] C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] 
+     serving(C155[5]) and tail:  size=7  C156[15] C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] 
+
+3 Tellers serve the Queue:  size=9  C156[15] C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] 
+     serving(C156[13]) and tail:  size=8  C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] 
+     serving(C0[0]) and tail:  size=8  C157[7] C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] 
+     serving(C157[2]) and tail:  size=7  C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] 
+
+3 Tellers serve the Queue:  size=10  C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C156[8]) and tail:  size=10  C158[9] C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C158[4]) and tail:  size=9  C159[4] C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C159[1]) and tail:  size=8  C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+
+3 Tellers serve the Queue:  size=8  C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C156[3]) and tail:  size=8  C160[4] C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C160[3]) and tail:  size=7  C161[8] C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C161[4]) and tail:  size=6  C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+
+3 Tellers serve the Queue:  size=6  C162[9] C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C162[7]) and tail:  size=5  C163[8] C164[8] C165[8] C166[2] C167[14] 
+     serving(C163[6]) and tail:  size=4  C164[8] C165[8] C166[2] C167[14] 
+     serving(C164[7]) and tail:  size=3  C165[8] C166[2] C167[14] 
+
+3 Tellers serve the Queue:  size=5  C165[8] C166[2] C167[14] C168[2] C169[1] 
+     serving(C162[2]) and tail:  size=5  C165[8] C166[2] C167[14] C168[2] C169[1] 
+     serving(C163[1]) and tail:  size=5  C165[8] C166[2] C167[14] C168[2] C169[1] 
+     serving(C164[2]) and tail:  size=5  C165[8] C166[2] C167[14] C168[2] C169[1] 
+
+3 Tellers serve the Queue:  size=8  C165[8] C166[2] C167[14] C168[2] C169[1] C170[11] C171[5] C172[6] 
+     serving(C165[5]) and tail:  size=7  C166[2] C167[14] C168[2] C169[1] C170[11] C171[5] C172[6] 
+     serving(C167[12]) and tail:  size=5  C168[2] C169[1] C170[11] C171[5] C172[6] 
+     serving(C0[0]) and tail:  size=3  C170[11] C171[5] C172[6] 
+
+2 Tellers serve the Queue:  size=6  C170[11] C171[5] C172[6] C173[12] C174[6] C175[3] 
+     serving(C0[0]) and tail:  size=6  C170[11] C171[5] C172[6] C173[12] C174[6] C175[3] 
+     serving(C167[7]) and tail:  size=6  C170[11] C171[5] C172[6] C173[12] C174[6] C175[3] 
+
+3 Tellers serve the Queue:  size=8  C170[11] C171[5] C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] 
+     serving(C170[6]) and tail:  size=7  C171[5] C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] 
+     serving(C167[2]) and tail:  size=7  C171[5] C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] 
+     serving(C0[0]) and tail:  size=6  C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] 
+
+3 Tellers serve the Queue:  size=9  C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] 
+     serving(C170[1]) and tail:  size=9  C172[6] C173[12] C174[6] C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] 
+     serving(C172[3]) and tail:  size=8  C173[12] C174[6] C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] 
+     serving(C173[7]) and tail:  size=7  C174[6] C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] 
+
+3 Tellers serve the Queue:  size=11  C174[6] C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] 
+     serving(C174[2]) and tail:  size=10  C175[3] C176[15] C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] 
+     serving(C175[1]) and tail:  size=9  C176[15] C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] 
+     serving(C173[2]) and tail:  size=9  C176[15] C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] 
+
+4 Tellers serve the Queue:  size=10  C176[15] C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] 
+     serving(C176[12]) and tail:  size=9  C177[13] C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] 
+     serving(C177[9]) and tail:  size=8  C178[11] C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] 
+     serving(C178[8]) and tail:  size=7  C179[9] C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] 
+     serving(C179[4]) and tail:  size=6  C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] 
+
+4 Tellers serve the Queue:  size=7  C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] 
+     serving(C176[7]) and tail:  size=7  C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] 
+     serving(C177[4]) and tail:  size=7  C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] 
+     serving(C178[3]) and tail:  size=7  C180[14] C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] 
+     serving(C180[13]) and tail:  size=6  C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] 
+
+4 Tellers serve the Queue:  size=10  C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] 
+     serving(C176[2]) and tail:  size=10  C181[3] C182[11] C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] 
+     serving(C181[2]) and tail:  size=9  C182[11] C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] 
+     serving(C182[9]) and tail:  size=8  C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] 
+     serving(C180[8]) and tail:  size=8  C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] 
+
+4 Tellers serve the Queue:  size=12  C183[5] C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C183[2]) and tail:  size=11  C184[10] C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C184[7]) and tail:  size=10  C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C182[4]) and tail:  size=10  C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C180[3]) and tail:  size=10  C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+
+4 Tellers serve the Queue:  size=10  C185[4] C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C185[1]) and tail:  size=9  C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C184[2]) and tail:  size=9  C186[10] C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C186[9]) and tail:  size=8  C187[10] C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+     serving(C187[8]) and tail:  size=7  C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] 
+
+4 Tellers serve the Queue:  size=8  C188[4] C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] 
+     serving(C0[0]) and tail:  size=7  C189[3] C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] 
+     serving(C0[0]) and tail:  size=6  C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] 
+     serving(C186[4]) and tail:  size=6  C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] 
+     serving(C187[3]) and tail:  size=6  C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] 
+
+3 Tellers serve the Queue:  size=9  C190[11] C191[9] C192[11] C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] 
+     serving(C190[6]) and tail:  size=8  C191[9] C192[11] C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] 
+     serving(C191[8]) and tail:  size=7  C192[11] C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] 
+     serving(C192[9]) and tail:  size=6  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] 
+
+3 Tellers serve the Queue:  size=9  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C190[1]) and tail:  size=9  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C191[3]) and tail:  size=9  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C192[4]) and tail:  size=9  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+
+4 Tellers serve the Queue:  size=9  C193[13] C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C193[9]) and tail:  size=8  C194[14] C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C194[12]) and tail:  size=7  C195[12] C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C195[11]) and tail:  size=6  C196[12] C197[6] C198[5] C199[1] C200[13] C201[6] 
+     serving(C196[7]) and tail:  size=5  C197[6] C198[5] C199[1] C200[13] C201[6] 
+
+4 Tellers serve the Queue:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C193[4]) and tail:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C194[7]) and tail:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C195[6]) and tail:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C196[2]) and tail:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+
+4 Tellers serve the Queue:  size=6  C197[6] C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C197[5]) and tail:  size=5  C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C194[2]) and tail:  size=5  C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C195[1]) and tail:  size=5  C198[5] C199[1] C200[13] C201[6] C202[12] 
+     serving(C198[2]) and tail:  size=4  C199[1] C200[13] C201[6] C202[12] 
+
+4 Tellers serve the Queue:  size=5  C199[1] C200[13] C201[6] C202[12] C203[7] 
+     serving(C0[0]) and tail:  size=5  C199[1] C200[13] C201[6] C202[12] C203[7] 
+     serving(C200[11]) and tail:  size=3  C201[6] C202[12] C203[7] 
+     serving(C201[2]) and tail:  size=2  C202[12] C203[7] 
+     serving(C202[9]) and tail:  size=1  C203[7] 
+
+3 Tellers serve the Queue:  size=2  C203[7] C204[6] 
+     serving(C200[6]) and tail:  size=2  C203[7] C204[6] 
+     serving(C203[4]) and tail:  size=1  C204[6] 
+     serving(C202[4]) and tail:  size=1  C204[6] 
+
+3 Tellers serve the Queue:  size=4  C204[6] C205[1] C206[2] C207[8] 
+     serving(C200[1]) and tail:  size=4  C204[6] C205[1] C206[2] C207[8] 
+     serving(C204[5]) and tail:  size=3  C205[1] C206[2] C207[8] 
+     serving(C0[0]) and tail:  size=2  C206[2] C207[8] 
+
+2 Tellers serve the Queue:  size=2  C206[2] C207[8] 
+     serving(C207[6]) and tail:  size=0  
+     serving(C0[0]) and tail:  size=0  
+
+1 Tellers serve the Queue:  size=0  
+     serving(C207[1]) and tail:  size=0  
+
+1 Tellers serve the Queue:  size=4  C208[13] C209[6] C210[15] C211[8] 
+     serving(C208[9]) and tail:  size=3  C209[6] C210[15] C211[8] 
+
+1 Tellers serve the Queue:  size=7  C209[6] C210[15] C211[8] C212[1] C213[12] C214[4] C215[6] 
+     serving(C208[4]) and tail:  size=7  C209[6] C210[15] C211[8] C212[1] C213[12] C214[4] C215[6] 
+
+2 Tellers serve the Queue:  size=7  C209[6] C210[15] C211[8] C212[1] C213[12] C214[4] C215[6] 
+     serving(C209[5]) and tail:  size=6  C210[15] C211[8] C212[1] C213[12] C214[4] C215[6] 
+     serving(C210[10]) and tail:  size=5  C211[8] C212[1] C213[12] C214[4] C215[6] 
+
+2 Tellers serve the Queue:  size=8  C211[8] C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] 
+     serving(C0[0]) and tail:  size=8  C211[8] C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] 
+     serving(C210[5]) and tail:  size=8  C211[8] C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] 
+
+3 Tellers serve the Queue:  size=9  C211[8] C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] C219[13] 
+     serving(C211[3]) and tail:  size=8  C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] C219[13] 
+     serving(C0[0]) and tail:  size=8  C212[1] C213[12] C214[4] C215[6] C216[7] C217[6] C218[5] C219[13] 
+     serving(C213[8]) and tail:  size=6  C214[4] C215[6] C216[7] C217[6] C218[5] C219[13] 
+
+3 Tellers serve the Queue:  size=8  C214[4] C215[6] C216[7] C217[6] C218[5] C219[13] C220[9] C221[5] 
+     serving(C214[2]) and tail:  size=7  C215[6] C216[7] C217[6] C218[5] C219[13] C220[9] C221[5] 
+     serving(C215[1]) and tail:  size=6  C216[7] C217[6] C218[5] C219[13] C220[9] C221[5] 
+     serving(C213[3]) and tail:  size=6  C216[7] C217[6] C218[5] C219[13] C220[9] C221[5] 
+
+3 Tellers serve the Queue:  size=10  C216[7] C217[6] C218[5] C219[13] C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] 
+     serving(C216[4]) and tail:  size=9  C217[6] C218[5] C219[13] C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] 
+     serving(C217[2]) and tail:  size=8  C218[5] C219[13] C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] 
+     serving(C218[3]) and tail:  size=7  C219[13] C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] 
+
+3 Tellers serve the Queue:  size=9  C219[13] C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] 
+     serving(C219[12]) and tail:  size=8  C220[9] C221[5] C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] 
+     serving(C220[6]) and tail:  size=7  C221[5] C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] 
+     serving(C221[3]) and tail:  size=6  C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] 
+
+3 Tellers serve the Queue:  size=9  C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] 
+     serving(C219[7]) and tail:  size=9  C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] 
+     serving(C220[1]) and tail:  size=9  C222[14] C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] 
+     serving(C222[12]) and tail:  size=8  C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] 
+
+3 Tellers serve the Queue:  size=9  C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] 
+     serving(C219[2]) and tail:  size=9  C223[12] C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] 
+     serving(C223[8]) and tail:  size=8  C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] 
+     serving(C222[7]) and tail:  size=8  C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] 
+
+3 Tellers serve the Queue:  size=10  C224[1] C225[14] C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C225[12]) and tail:  size=8  C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C223[3]) and tail:  size=8  C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C222[2]) and tail:  size=8  C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+
+3 Tellers serve the Queue:  size=8  C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C225[7]) and tail:  size=8  C226[5] C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C226[3]) and tail:  size=7  C227[12] C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C227[9]) and tail:  size=6  C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+
+3 Tellers serve the Queue:  size=6  C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C225[2]) and tail:  size=6  C228[15] C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C228[13]) and tail:  size=5  C229[11] C230[1] C231[1] C232[6] C233[11] 
+     serving(C227[4]) and tail:  size=5  C229[11] C230[1] C231[1] C232[6] C233[11] 
+
+3 Tellers serve the Queue:  size=8  C229[11] C230[1] C231[1] C232[6] C233[11] C234[2] C235[13] C236[14] 
+     serving(C229[8]) and tail:  size=7  C230[1] C231[1] C232[6] C233[11] C234[2] C235[13] C236[14] 
+     serving(C228[8]) and tail:  size=7  C230[1] C231[1] C232[6] C233[11] C234[2] C235[13] C236[14] 
+     serving(C0[0]) and tail:  size=6  C231[1] C232[6] C233[11] C234[2] C235[13] C236[14] 
+

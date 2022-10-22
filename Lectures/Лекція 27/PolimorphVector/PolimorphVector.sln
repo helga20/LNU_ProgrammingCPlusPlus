@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PolimorphVector", "PolimorphVector\PolimorphVector.vcxproj", "{E1F6597C-E363-4296-9337-D9CF1EAB7ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F6597C-E363-4296-9337-D9CF1EAB7ACD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1F6597C-E363-4296-9337-D9CF1EAB7ACD}.Debug|Win32.Build.0 = Debug|Win32
+		{E1F6597C-E363-4296-9337-D9CF1EAB7ACD}.Release|Win32.ActiveCfg = Release|Win32
+		{E1F6597C-E363-4296-9337-D9CF1EAB7ACD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

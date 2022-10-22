@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VolShape">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="VolShape::BadClassname" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>VolumeShapes.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ECBAAAAABAgAQAAAIAAAAEAgBAAAAAAIQAAAAAACAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DirectShape">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAQAAAIAAAAAAgAAAAgAAAAAAAAAACAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cylinder">
+    <Position X="3.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAQgAAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parallelepiped">
+    <Position X="5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAIAgAAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriPrizm">
+    <Position X="1.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PiramidalShape">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAIAAAAAAgEAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conus">
+    <Position X="8.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAABAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectPiramid">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="RectPiramid::RectAB" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>VolumeShapes.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TriPiramid">
+    <Position X="7" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VolumeShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

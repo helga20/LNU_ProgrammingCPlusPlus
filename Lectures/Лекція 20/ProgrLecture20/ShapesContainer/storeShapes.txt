@@ -1,0 +1,4 @@
+3
+Cylinder 3.5 C 1.5
+Parallelepiped 3 R 3 3
+Parallelepiped 5 R 6 4

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Shape">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAAgAAAAAAABBAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>FlatShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAAgAAAAAAAABAAgAAAgAQAAAAAAIAA=</HashCode>
+      <FileName>FlatShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Circle">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgACAAAAAAgAAAAAAAABAgAAAAAAAABAAAAIAA=</HashCode>
+      <FileName>FlatShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Triangle">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAAhAAAAAAAABAAAAAAgAQAgAABAIAA=</HashCode>
+      <FileName>FlatShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>FlatShapes.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

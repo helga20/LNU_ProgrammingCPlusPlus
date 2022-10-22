@@ -1,0 +1,8 @@
+7
+Cylinder 3.5 1.5
+Parallelepiped 3.0 3.0 3.0
+TriPrizma 4.1 2.0 2.0 60
+Conus 4.2 1.5
+RectPiramid 4.5 5.5 6.0
+TriPiramid 9.3 2.0 2.0 90
+TriPrizma 5.0 3.0 4.0 90

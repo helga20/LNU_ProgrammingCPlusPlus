@@ -1,0 +1,6 @@
+4
+Lviv Kyiv 30 1500 0
+Lviv Kharkiv 15 1700 1
+Lviv Odessa 5 1800 1
+Lviv Vinnytsia 12 2300 0
+	

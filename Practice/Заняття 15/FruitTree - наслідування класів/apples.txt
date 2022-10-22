@@ -1,0 +1,4 @@
+3
+GoldenApple 7 1.5 12 Golden
+Aidared 2 1.1 4 Red
+GrennySmith 10 2.1 30 Rose

@@ -1,0 +1,5 @@
+GoldenApple 8 1.7 14 Golden
+Aidared 3 1.3 4 Red
+GrennySmith 11 2.3 32 Rose
+UkrApricot 6 1.3 9 0
+EspApricot 3 0.7 15 0

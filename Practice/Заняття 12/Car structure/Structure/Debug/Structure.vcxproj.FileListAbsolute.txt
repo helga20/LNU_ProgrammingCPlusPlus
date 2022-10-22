@@ -1,0 +1,4 @@
+D:\Навчання\Програмування (практичні)\Structure\Debug\Structure.exe
+D:\Навчання\Програмування (практичні)\Structure\Debug\Structure.pdb
+D:\Навчання\Програмування (практичні)\Заняття 12\Car structure\Structure\Debug\Structure.exe
+D:\Навчання\Програмування (практичні)\Заняття 12\Car structure\Structure\Debug\Structure.pdb

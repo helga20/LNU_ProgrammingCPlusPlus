@@ -1,0 +1,17 @@
+﻿  car.cpp
+  main.cpp
+  Создание кода...
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Car::Car(void)" (??0Car@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Car::Car(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,double const &)" (??0Car@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0ABN@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Car::Car(class Car const &)" (??0Car@@QAE@ABV0@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall Car::~Car(void)" (??1Car@@QAE@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Car::printInfo(void)const " (?printInfo@Car@@QBEXXZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > & __thiscall Car::getBrand(void)" (?getBrand@Car@@QAEAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > & __thiscall Car::getModel(void)" (?getModel@Car@@QAEAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: double & __thiscall Car::getPrice(void)" (?getPrice@Car@@QAEAANXZ) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Car::setBrand(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?setBrand@Car@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Car::setModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?setModel@Car@@QAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Car::setPrice(double const &)" (?setPrice@Car@@QAEXABN@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_istream<char,struct std::char_traits<char> > & __cdecl operator>>(class std::basic_istream<char,struct std::char_traits<char> > &,class Car &)" (??5@YAAAV?$basic_istream@DU?$char_traits@D@std@@@std@@AAV01@AAVCar@@@Z) в функции _main.
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Car const &)" (??6@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV01@ABVCar@@@Z) в функции _main.
+D:\Навчання\Програмування (практичн?)\Заняття 12\Car structure\Structure\Debug\Structure.exe : fatal error LNK1120: неразрешенных внешних элементов: 13

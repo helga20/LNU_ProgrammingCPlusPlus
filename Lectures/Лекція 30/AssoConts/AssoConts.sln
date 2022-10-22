@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetOperation", "SetOperation\SetOperation.vcxproj", "{D8949163-AA17-4486-ABC7-BAB3EADE3FAC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SetOfShapes", "SetOfShapes\SetOfShapes.vcxproj", "{CFD484E7-6C0A-4AED-8064-87249B336388}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NoisyExperiment", "NoisyExperiment\NoisyExperiment.vcxproj", "{A710CA28-A6FB-4F39-A42C-D30DD328DC7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FillOutAlgos", "FillOutAlgos\FillOutAlgos.vcxproj", "{B318C41A-17E2-44FC-AC42-87A06302B53C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8949163-AA17-4486-ABC7-BAB3EADE3FAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8949163-AA17-4486-ABC7-BAB3EADE3FAC}.Debug|Win32.Build.0 = Debug|Win32
+		{D8949163-AA17-4486-ABC7-BAB3EADE3FAC}.Release|Win32.ActiveCfg = Release|Win32
+		{D8949163-AA17-4486-ABC7-BAB3EADE3FAC}.Release|Win32.Build.0 = Release|Win32
+		{CFD484E7-6C0A-4AED-8064-87249B336388}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFD484E7-6C0A-4AED-8064-87249B336388}.Debug|Win32.Build.0 = Debug|Win32
+		{CFD484E7-6C0A-4AED-8064-87249B336388}.Release|Win32.ActiveCfg = Release|Win32
+		{CFD484E7-6C0A-4AED-8064-87249B336388}.Release|Win32.Build.0 = Release|Win32
+		{A710CA28-A6FB-4F39-A42C-D30DD328DC7E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A710CA28-A6FB-4F39-A42C-D30DD328DC7E}.Debug|Win32.Build.0 = Debug|Win32
+		{A710CA28-A6FB-4F39-A42C-D30DD328DC7E}.Release|Win32.ActiveCfg = Release|Win32
+		{A710CA28-A6FB-4F39-A42C-D30DD328DC7E}.Release|Win32.Build.0 = Release|Win32
+		{B318C41A-17E2-44FC-AC42-87A06302B53C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B318C41A-17E2-44FC-AC42-87A06302B53C}.Debug|Win32.Build.0 = Debug|Win32
+		{B318C41A-17E2-44FC-AC42-87A06302B53C}.Release|Win32.ActiveCfg = Release|Win32
+		{B318C41A-17E2-44FC-AC42-87A06302B53C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

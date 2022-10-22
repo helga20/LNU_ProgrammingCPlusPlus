@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgrLecture08", "ProgrLecture08\ProgrLecture08.vcxproj", "{466D1D3D-CE74-45E9-959B-01342CB2A808}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HighOrderFunction", "HighOrderFunction\HighOrderFunction.vcxproj", "{DA3B0F46-665F-48EA-9502-AE5BFC2FFDEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{466D1D3D-CE74-45E9-959B-01342CB2A808}.Debug|Win32.ActiveCfg = Debug|Win32
+		{466D1D3D-CE74-45E9-959B-01342CB2A808}.Debug|Win32.Build.0 = Debug|Win32
+		{466D1D3D-CE74-45E9-959B-01342CB2A808}.Release|Win32.ActiveCfg = Release|Win32
+		{466D1D3D-CE74-45E9-959B-01342CB2A808}.Release|Win32.Build.0 = Release|Win32
+		{DA3B0F46-665F-48EA-9502-AE5BFC2FFDEE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DA3B0F46-665F-48EA-9502-AE5BFC2FFDEE}.Debug|Win32.Build.0 = Debug|Win32
+		{DA3B0F46-665F-48EA-9502-AE5BFC2FFDEE}.Release|Win32.ActiveCfg = Release|Win32
+		{DA3B0F46-665F-48EA-9502-AE5BFC2FFDEE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

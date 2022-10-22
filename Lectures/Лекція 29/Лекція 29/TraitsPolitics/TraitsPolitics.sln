@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TraitsPolitics", "TraitsPolitics\TraitsPolitics.vcxproj", "{42010CA6-1582-49FC-9836-BC16B14E194E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Metaprog", "Metaprog\Metaprog.vcxproj", "{E41AF277-D39A-419B-84D7-8150A3EE12FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ExpressionTemplate", "ExpressionTemplate\ExpressionTemplate.vcxproj", "{47F66CC0-0FFC-420C-BFC7-4C30C27FA94B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42010CA6-1582-49FC-9836-BC16B14E194E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42010CA6-1582-49FC-9836-BC16B14E194E}.Debug|Win32.Build.0 = Debug|Win32
+		{42010CA6-1582-49FC-9836-BC16B14E194E}.Release|Win32.ActiveCfg = Release|Win32
+		{42010CA6-1582-49FC-9836-BC16B14E194E}.Release|Win32.Build.0 = Release|Win32
+		{E41AF277-D39A-419B-84D7-8150A3EE12FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E41AF277-D39A-419B-84D7-8150A3EE12FA}.Debug|Win32.Build.0 = Debug|Win32
+		{E41AF277-D39A-419B-84D7-8150A3EE12FA}.Release|Win32.ActiveCfg = Release|Win32
+		{E41AF277-D39A-419B-84D7-8150A3EE12FA}.Release|Win32.Build.0 = Release|Win32
+		{47F66CC0-0FFC-420C-BFC7-4C30C27FA94B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47F66CC0-0FFC-420C-BFC7-4C30C27FA94B}.Debug|Win32.Build.0 = Debug|Win32
+		{47F66CC0-0FFC-420C-BFC7-4C30C27FA94B}.Release|Win32.ActiveCfg = Release|Win32
+		{47F66CC0-0FFC-420C-BFC7-4C30C27FA94B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

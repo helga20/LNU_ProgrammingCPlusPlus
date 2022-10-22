@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Algos.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 28\AlgorithmExamples\GenAlgs\Algos.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Algos.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GenAlgs.vcxproj -> D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 28\AlgorithmExamples\Debug\GenAlgs.exe

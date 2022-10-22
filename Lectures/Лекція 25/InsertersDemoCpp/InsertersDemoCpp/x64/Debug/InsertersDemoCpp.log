@@ -1,0 +1,4 @@
+﻿  Program.cpp
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 25\InsertersDemoCpp\InsertersDemoCpp\Program.cpp(82,2): error C2672: 'copy': no matching overloaded function found
+D:\STOP! Небезпечно для життя\А я попереджала\Програмування (лекції)\Лекція 25\InsertersDemoCpp\InsertersDemoCpp\Program.cpp(82,47): error C2780: '_OutIt std::copy(_InIt,_InIt,_OutIt)': expects 3 arguments - 2 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\xutility(4424): message : see declaration of 'std::copy'

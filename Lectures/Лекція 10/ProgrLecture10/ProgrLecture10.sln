@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProgrLecture10", "ProgrLecture10\ProgrLecture10.vcxproj", "{AB52BBAE-B06E-4634-8AB8-F29606070DAB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trees", "Trees\Trees.vcxproj", "{DD737F40-C816-4AA5-B1E1-A3BCFE3F904E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB52BBAE-B06E-4634-8AB8-F29606070DAB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AB52BBAE-B06E-4634-8AB8-F29606070DAB}.Debug|Win32.Build.0 = Debug|Win32
+		{AB52BBAE-B06E-4634-8AB8-F29606070DAB}.Release|Win32.ActiveCfg = Release|Win32
+		{AB52BBAE-B06E-4634-8AB8-F29606070DAB}.Release|Win32.Build.0 = Release|Win32
+		{DD737F40-C816-4AA5-B1E1-A3BCFE3F904E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD737F40-C816-4AA5-B1E1-A3BCFE3F904E}.Debug|Win32.Build.0 = Debug|Win32
+		{DD737F40-C816-4AA5-B1E1-A3BCFE3F904E}.Release|Win32.ActiveCfg = Release|Win32
+		{DD737F40-C816-4AA5-B1E1-A3BCFE3F904E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

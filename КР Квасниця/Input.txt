@@ -1,0 +1,8 @@
+apelsynka vitamin_C qwerty 10.0 15
+glicysed glicyn yuiop 25.0 10
+paracetamol paracetamol qwerty 20.0 13
+nurofen ibuprofen yuiop 24.30 3
+korvalol korvalol qwerty 23.34 7
+provira vitamin_C yuiop 13.30 14
+paracetamol paracetamol yuiop 13.0 4
+asdsda korvalol tyui 12.65 12

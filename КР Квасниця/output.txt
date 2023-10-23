@@ -1,0 +1,5 @@
+Skoda 2009 500000 white
+BMW 2008 10955 white
+Lamborgini 2011 1000000 white
+Mitsubishi 2011 2333999 white
+Renault 2012 40000 white

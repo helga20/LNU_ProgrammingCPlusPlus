@@ -1,0 +1,16 @@
+15
+Skoda 2009 500000 white 
+Renault 2011 4000000 silver 
+BMW 2007 10000 darkgreen
+BMW 2009 50000 red
+BMW 2008 10955 white
+BMW 2018 10099 blue
+Lamborgini 2015 100000000 black
+Lamborgini 2011 1000000 white
+Mitsubishi 2013 200000 red
+Toyota 2008 1999999 blue
+Mitsubishi 2012 29999 yellow
+Lada 1996 50000 red
+BMW 2009 499999 green
+Mitsubishi 2011 2333999 white
+Renault 2012 40000 white
